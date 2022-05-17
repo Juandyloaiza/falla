@@ -1,0 +1,28 @@
+header{
+    background:url("../images/2.jpg");
+    color: hsl(0, 0%, 100%);
+    border: 2px dotted orange
+}
+
+
+
+section{ 
+    color:hwb(0 100% 0% / 0.926);
+    border:2px dashed rgb(250, 5, 5);
+    margin: 20px;
+}
+
+body{
+    background: url('../images/stun.jpg');
+    background-position:no-repeat center;
+    padding:20px;
+    background-size: 100% 100%;
+    
+
+
+
+}
+
+h2{
+    bottom: black;
+}
